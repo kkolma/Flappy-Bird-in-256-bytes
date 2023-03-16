@@ -22,9 +22,7 @@ load "flappy256.prg",8,1
 sys 4096 (C64 version) / sys 8192 (Cplus4 version)
 
 
-The game starts immediately.  Use the SPACE bar to fly the bird as far as you can.
-
-If you hit the pipe, the game is over. You can start another round with the ENTER key.
+The game starts immediately.  Use the SPACE bar to fly the bird as far as you can. If you hit the pipe, the game is over. You can start another round with the ENTER key.
 
 
 # ABOUT THE SOURCE CODE

@@ -8,8 +8,9 @@ Get ready to flap like a pro with the most compact version of Flappy Bird  for t
 
 The C64 version was ranked 3rd in the Nano Game Oldschool at Lovebyte 2023.
 
-You can try out the C64 version here: 
+You can try out the C64 version here:
 https://c64online.com/c64-games/flappy-bird-256/
+
 And the Commodore Plus/4 version here:
 http://plus4world.powweb.com/software/Flappy_Bird_256
 
